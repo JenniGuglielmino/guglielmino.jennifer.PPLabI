@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1621041556 source:c:\users\jenni\onedrive\escritorio\guglielmino_jennifer_1_parciallaboratorio\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"cliente.h"
+	"juegos.h"
+
+1621032578 source:c:\users\jenni\onedrive\escritorio\guglielmino_jennifer_1_parciallaboratorio\categoria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621038538 source:c:\users\jenni\onedrive\escritorio\guglielmino_jennifer_1_parciallaboratorio\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_guglielmino.h"
+	"cliente.h"
+
+1621029558 source:c:\users\jenni\onedrive\escritorio\guglielmino_jennifer_1_parciallaboratorio\datawarehouse.c
+
+1621041417 source:c:\users\jenni\onedrive\escritorio\guglielmino_jennifer_1_parciallaboratorio\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621035802 source:c:\users\jenni\onedrive\escritorio\guglielmino_jennifer_1_parciallaboratorio\utn_guglielmino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+	"utn_guglielmino.h"
+
+1621035075 c:\users\jenni\onedrive\escritorio\guglielmino_jennifer_1_parciallaboratorio\utn_guglielmino.h
+
+1621037824 source:c:\users\jenni\onedrive\escritorio\guglielmino_jennifer_1_parciallaboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_guglielmino.h"
+	"cliente.h"
+	"juegos.h"
+	"categoria.h"
+	"alquiler.h"
+
+1621038517 c:\users\jenni\onedrive\escritorio\guglielmino_jennifer_1_parciallaboratorio\cliente.h
+
+1621041381 c:\users\jenni\onedrive\escritorio\guglielmino_jennifer_1_parciallaboratorio\juegos.h
+	"categoria.h"
+
+1621030069 c:\users\jenni\onedrive\escritorio\guglielmino_jennifer_1_parciallaboratorio\categoria.h
+
+1621041491 c:\users\jenni\onedrive\escritorio\guglielmino_jennifer_1_parciallaboratorio\alquiler.h
+	"fecha.h"
+
+1621030221 c:\users\jenni\onedrive\escritorio\guglielmino_jennifer_1_parciallaboratorio\fecha.h
+
+1621636393 source:c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_guglielmino.h"
+	"cliente.h"
+	"juegos.h"
+	"categoria.h"
+	"alquiler.h"
+	"datawarehouse.h"
+
+1621608081 c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\utn_guglielmino.h
+
+1621635878 c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\cliente.h
+	"localidad.h"
+
+1621629916 c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\juegos.h
+	"categoria.h"
+
+1621622029 c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\categoria.h
+
+1621635797 c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\alquiler.h
+	"fecha.h"
+	"juegos.h"
+	"cliente.h"
+
+1621030221 c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\fecha.h
+
+1621635756 source:c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"juegos.h"
+
+1621622155 source:c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\categoria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"categoria.h"
+
+1621636660 source:c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn_guglielmino.h"
+	"cliente.h"
+
+1621635561 source:c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621629982 source:c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621608063 source:c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\utn_guglielmino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+	"utn_guglielmino.h"
+
+1621030189 source:c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\fecha.c
+
+1621629803 c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\datawarehouse.h
+	"fecha.h"
+	"cliente.h"
+	"alquiler.h"
+
+1621635520 c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\localidad.h
+
+1621636579 source:c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\localidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"localidad.h"
+
+1621643868 source:c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+	"utn_guglielmino.h"
+
+1621644375 c:\users\jenni\escritorio\guglielmino_jennifer_1_parciallaboratorio\informes.h
+	"cliente.h"
+	"alquiler.h"
+
